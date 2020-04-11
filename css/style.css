@@ -152,7 +152,16 @@ p a:hover {
     }
 }
 @media screen and (max-width: 559px) {
+    main {
+        padding: 2em 1.1em;
+    }
     .register {
         margin: 0;
+    }
+    h1 {
+        font-size: 1.388888em;
+    }
+    p {
+        font-size: 0.93em;
     }
 }
